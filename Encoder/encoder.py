@@ -58,3 +58,6 @@ class Encoder(object):
     """
     def read(self):
         return self.pos
+    
+    def write(self):
+        self.pos = 0
