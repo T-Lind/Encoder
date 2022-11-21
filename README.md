@@ -1,4 +1,5 @@
 # Raspberry Pi Rotary Encoder Library
+## Created by mivallion and expanded by T-Lind
 
 Encoder library for Raspberry Pi for measuring quadrature encoded signals.
 ### About
